@@ -1,2 +1,3 @@
 # Brand-page-React-
-Its a Brand Page of Ecommerce site Using React 
+Its a Brand Page of an Ecommerce site Using React 
+
